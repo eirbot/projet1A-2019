@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name buzzer)(type KiCad)(uri /home/lucas/Documents/eirbot/robot_suiveur/carte_logique/carte_logique)(options "")(descr ""))
+)
